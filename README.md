@@ -34,6 +34,12 @@ Extended QuestLog is an extension of the questlog. Choose from different layouts
 ## Informant
 Displays detailed item information in tooltips, and can produce item reports by binding an information window to a keypress [3.8.0] This AddOn is licenced under the GNU GPL, see GPL.txt for details.
 
+## KillsToLevel
+After every xp change, works out how many more needed to level.
+
+## LunaUnitFrames
+Lightweight Unit Frames in a modern look.
+
 ## OneBag
 One bag to rule them all, and in the darkness bind them. Options found in bag
 window (`b`)
@@ -52,3 +58,29 @@ minimap.
 ## Stubby (Dependency)
 Allows on-demand addons to load automatically based upon simple event notification hooks [3.8.0] This AddOn is licenced under the GNU GPL, see GPL.txt for details.
 
+## Titan 
+Adds a control panel/info bar on the top and bottom of the screen. Allows users to control time/volume/panel scale/transparency, also displays important information such as money/bag/latency/FPS/Location/XP in real time. 
+
+## TitanBag
+Adds bag and free slot information to Titan Panel
+
+## TitanClock
+Adds a clock to Titan Panel
+
+## TitanClockOffsetFix
+Fixes the Titan Panel Clock so that its offset is stored per server not per character.
+
+## TitanFriendsX
+An extended friends list for the Titan Panel AddOn. Shows Guild members and friend/guild people in the same area.
+
+## TitanItemDed
+Drop the cheapest item from your bags
+
+## TitanMoney
+Adds current and session gold earnings/losses to Titan panel
+
+## TitanXP
+Adds information to Titan Panel about XP earned and time to level
+
+## TitanZoneLevel
+Displays current zone levels in Titan Bar
