@@ -38,8 +38,12 @@ Displays detailed item information in tooltips, and can produce item reports by 
 One bag to rule them all, and in the darkness bind them. Options found in bag
 window (`b`)
 
+## OneBank
+OneBag for bank.
+
 ## Questie
-A standalone Vanilla QuestHelper. Can be disabled in world map (`m`)
+A standalone Vanilla QuestHelper. Can be disabled in world map (`m`). Tracker
+disabled by yours truly in favour of EQL3.
 
 ## SmartHeal
 Auto heal rank calculation and auto target healing. Click the heal icon button on
