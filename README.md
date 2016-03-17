@@ -55,6 +55,9 @@ disabled by yours truly in favour of EQL3.
 Auto heal rank calculation and auto target healing. Click the heal icon button on
 minimap.
 
+## SpamThrottle
+Spam filter, actively maintained at https://github.com/Orukxu/SpamThrottle
+
 ## Stubby (Dependency)
 Allows on-demand addons to load automatically based upon simple event notification hooks [3.8.0] This AddOn is licenced under the GNU GPL, see GPL.txt for details.
 
